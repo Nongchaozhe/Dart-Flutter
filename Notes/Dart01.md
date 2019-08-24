@@ -26,7 +26,7 @@ c
 拼接：
 var str1 = 'str1';
 var str2 = 'str2';
-print("$str1 $str2");
+print("字符串：$str1 $str2");
 print(str1 + ' ' + str2);
 ```
 3. 数值类型
@@ -75,3 +75,4 @@ if(str is String){
     print('其他类型');
 }
 ```
+
